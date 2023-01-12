@@ -1,0 +1,42 @@
+.login-wrapped {
+    width: 300px;
+    margin: auto;
+}
+
+.login-container {
+    display:flex;
+    flex-direction: column;
+}
+
+.login-container {
+    text-align: center;
+}
+
+.login-container input {
+    padding: 8px;
+    margin-bottom: 8px;
+}
+
+.login-container button {
+    cursor: pointer;
+    padding: 8px;
+    margin-top: 16px;
+}
+
+.logout-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.logout-button button {
+    cursor: pointer;
+    width: 100px;
+    height: 40px;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: red;
+    color: aliceblue;
+    border: none;
+}

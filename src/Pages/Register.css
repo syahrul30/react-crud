@@ -1,0 +1,28 @@
+.regis-wrapped {
+    width: 300px;
+    margin: auto;
+
+}
+
+.regis-container {
+    display:flex;
+    flex-direction: column;
+}
+
+.regis-container {
+    text-align: center;
+}
+
+.regis-container input {
+    padding: 8px;
+    margin-bottom: 8px;
+}
+
+.regis-container button {
+    cursor: pointer;
+    padding: 8px;
+    margin-top: 16px;
+}
+
+
+
